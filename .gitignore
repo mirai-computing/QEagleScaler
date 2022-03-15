@@ -1,0 +1,11 @@
+!.gitignore
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+object_script.*
+Makefile*
+*.pro.*
+*.o
+*.exe
+*.dll
+!lib
